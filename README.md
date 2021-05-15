@@ -1,7 +1,7 @@
-## 👋 Welcome to Komeng Tech
+## 👋 Komeng Tech
 <img height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-### Hello! I'm Hafiz from Sunny Singapore ☀️
+### Hello! I'm Hafiz from ☀️ Singapore
 
 ### Fun Facts
 - #1: A Self-taught Dart (Flutter), Swift, Java and Javascript (React Native) Programmer

@@ -5,7 +5,7 @@
 
 ### Fun Facts
 - #1: A Self-taught Dart (Flutter), Swift, Java and Javascript (React Native) Programmer
-- #2: I prefer developing Flutter applications
+- #2: Been developing Flutter applications for over 4 years
 - #3: I solo cycled from Singapore to Bangkok, Thailand on a $80+ bicycle
 - #4: I solo Kick Scoot from Phnom Penh, Cambodia to Ho Chi Minh, Vietnam
 - #5: I was in the military for 11+ years, Rank: Captain

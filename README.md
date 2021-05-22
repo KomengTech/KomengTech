@@ -55,9 +55,6 @@
 <td align="center">
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </td>
-<td align="center">
-<img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-</td>
 </tr>
 </tbody>
 </table>

@@ -10,7 +10,6 @@
 - #4: I solo Kick Scoot from Phnom Penh, Cambodia to Ho Chi Minh, Vietnam
 - #5: I was in the military for 11+ years, Rank: Captain
 
-Website: https://komengtech.com
 ### 👨‍💻 Programming Languages
 <table>
 <tbody>

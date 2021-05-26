@@ -1,12 +1,12 @@
 ## 👋 Komeng Tech
 <img height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-### Hello! I'm Hafiz from ☀️ Singapore
+### Hello! I'm Hafiz from ☀️ Singapore 
 
 ### Fun Facts
-- #1: A Self-taught Dart (Flutter), Swift, Java and Javascript (React Native) Programmer
-- #2: Been developing Flutter applications for over 4 years
-- #3: I solo cycled from Singapore to Bangkok, Thailand, total around 20 days 🚴
+- #1: A Self-taught Programmer 👨‍💻
+- #2: Learned Swift and Java programming since 2016, Javascript since 2017 and Flutter since 2018
+- #3: I solo cycled from Singapore to Bangkok, Thailand, took me around 20 days 🚴
 - #4: I solo Kick Scoot from Phnom Penh, Cambodia to Ho Chi Minh, Vietnam 🛴 
 - #5: I was in the military for 11+ years, Rank: Captain 🇸🇬 
 
